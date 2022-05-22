@@ -1,11 +1,9 @@
 # to_do_app_android
 
-A new Flutter project.
+To Do App Uygulaması
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
+## Hazırlayan
+## Melik Gündoğdu
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
