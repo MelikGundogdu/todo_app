@@ -3,12 +3,13 @@
 To Do App Uygulaması
 
 ## Hazırlayan
-## Melik Gündoğdu
-A few resources to get you started if this is your first Flutter project:
+Melik Gündoğdu
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## GIF 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://media.giphy.com/media/874EwCy9G4ILnu4X9p/giphy.gif)
+
+### Yardım alınan kaynaklar
+[online documentation](https://pub.dev/packages/intl/install), 
+(https://docs.flutter.dev/get-started/codelab),
+(https://docs.flutter.dev/cookbook)
